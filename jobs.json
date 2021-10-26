@@ -1,72 +1,212 @@
 [
  {
   "id": "",
-  "title": "Sales Assistant - Immediate Start",
-  "company": "Lewis Paige"
+  "title": "Store Assistant",
+  "company": "Aldi",
+  "companyLocation": "Haringey N4 1ED+43 locations",
+  "Salary": "£11.07 an hour"
  },
  {
   "id": "",
-  "title": "Sales Assistant - East Ham",
-  "company": "CeX Complete Entertainment Exchange"
+  "title": "Retail Betting Assistant",
+  "company": "Paddy Power",
+  "companyLocation": "London SE1 1NH+15 locations",
+  "Salary": "£9.50 an hour"
  },
  {
   "id": "",
-  "title": "Sales Assistant",
-  "company": "Inc Recruitment"
+  "title": "Sales assistant - Harrods Pastry pop-up",
+  "company": "Laduree",
+  "companyLocation": "Knightsbridge",
+  "Salary": "£8.91 an hour"
  },
  {
   "id": "",
-  "title": "SHOP SALES ASSISTANT",
-  "company": "LONGDAN"
+  "title": "Customer Assistant Menswear",
+  "company": "Marks \u0026 Spencer",
+  "companyLocation": "London+1 location",
+  "Salary": ""
  },
  {
   "id": "",
-  "title": "Sales Assistant - Stratford Underground",
-  "company": "WHSmith"
+  "title": "Christmas Sales Assistant- Westfields London",
+  "company": "Flying Tiger Copenhagen",
+  "companyLocation": "London",
+  "Salary": ""
  },
  {
   "id": "",
-  "title": "Stockroom Assistant",
-  "company": "Office Shoes"
- },
- {
-  "id": "",
-  "title": "Customer Assistant - Pick and Pack",
-  "company": "WM Morrisons Supermarkets"
- },
- {
-  "id": "",
-  "title": "Customer Assistant",
-  "company": "Lidl"
- },
- {
-  "id": "",
-  "title": "ZARA ST PAULS - ONE NEW CHANGE - FULL TIME SALES ASSISTANTS",
-  "company": "ZARA"
+  "title": "Store Assistant - Days",
+  "company": "ASDA",
+  "companyLocation": "London TW3+10 locations",
+  "Salary": ""
  },
  {
   "id": "",
   "title": "Sales Assistant - Oxford St Flagship",
-  "company": "Mango"
+  "company": "Mango",
+  "companyLocation": "London+1 location",
+  "Salary": ""
  },
  {
   "id": "",
-  "title": "Sales Assistant in Wembley (Part \u0026 Full Time)",
-  "company": "IKEA"
+  "title": "Sales Assistant- London Bridge Shard",
+  "company": "WHSmith",
+  "companyLocation": "London",
+  "Salary": "£8.91 an hour"
+ },
+ {
+  "id": "",
+  "title": "Customer Assistant",
+  "company": "Lidl",
+  "companyLocation": "Limehouse E14 7DL+31 locations",
+  "Salary": "£10.85 - £11.80 an hour"
+ },
+ {
+  "id": "",
+  "title": "Customer Assistant",
+  "company": "Marks \u0026 Spencer",
+  "companyLocation": "London+28 locations",
+  "Salary": ""
+ },
+ {
+  "id": "",
+  "title": "Retail Assistant",
+  "company": "Primark-UK-IE",
+  "companyLocation": "London+6 locations",
+  "Salary": "£9.45 an hour"
+ },
+ {
+  "id": "",
+  "title": "Store Assistant - Part Time",
+  "company": "Thrive Group",
+  "companyLocation": "London",
+  "Salary": "£10 - £11 an hour"
+ },
+ {
+  "id": "",
+  "title": "Sales Assistant - Westfield Stratford City",
+  "company": "WHSmith",
+  "companyLocation": "Westfield Stratford City+60 locations",
+  "Salary": "£8.91 an hour"
+ },
+ {
+  "id": "",
+  "title": "Store Assistant - Nights",
+  "company": "ASDA",
+  "companyLocation": "London TW3+7 locations",
+  "Salary": ""
+ },
+ {
+  "id": "",
+  "title": "Customer Assistant - Pick and Pack",
+  "company": "WM Morrisons Supermarkets",
+  "companyLocation": "Canning Town Station+20 locations",
+  "Salary": ""
+ },
+ {
+  "id": "",
+  "title": "Sales Assistant (Part-time)",
+  "company": "Mulberry",
+  "companyLocation": "London+1 location",
+  "Salary": ""
+ },
+ {
+  "id": "",
+  "title": "SHOP SALES ASSISTANT",
+  "company": "LONGDAN",
+  "companyLocation": "Elephant \u0026 Castle+2 locations",
+  "Salary": "£8.91 an hour"
  },
  {
   "id": "",
   "title": "Customer Service Assistant",
-  "company": "Wickes"
+  "company": "Wickes",
+  "companyLocation": "London+5 locations",
+  "Salary": "£9.50 an hour"
  },
  {
   "id": "",
-  "title": "Retail Assistant - Seasonal (Temporary Contract) (London)",
-  "company": "Iceland"
+  "title": "UO - Christmas Temp Sales Associates - Oxford St, London",
+  "company": "Urban Outfitters Inc.",
+  "companyLocation": "London W1D+2 locations",
+  "Salary": ""
+ },
+ {
+  "id": "",
+  "title": "Sales Assistant - Holborn Circus",
+  "company": "WHSmith",
+  "companyLocation": "Holborn",
+  "Salary": "£8.91 an hour"
  },
  {
   "id": "",
   "title": "Sales Assistant",
-  "company": "Mleczko Delikatesy Ltd"
+  "company": "UNIQLO",
+  "companyLocation": "Angel Station+9 locations",
+  "Salary": "£9.60 an hour"
+ },
+ {
+  "id": "",
+  "title": "Stockroom Assistant",
+  "company": "Office Shoes",
+  "companyLocation": "London",
+  "Salary": ""
+ },
+ {
+  "id": "",
+  "title": "Shop Assistant- fish take away",
+  "company": "Fish Kitchen Ltd",
+  "companyLocation": "London SE1 9AL",
+  "Salary": "£10.00 - £10.50 an hour"
+ },
+ {
+  "id": "",
+  "title": "Sales Assistant - Stratford Underground",
+  "company": "WHSmith",
+  "companyLocation": "Stratford",
+  "Salary": "£8.91 an hour"
+ },
+ {
+  "id": "",
+  "title": "Sales Assistant - Part Time",
+  "company": "Superdry",
+  "companyLocation": "London W12+7 locations",
+  "Salary": ""
+ },
+ {
+  "id": "",
+  "title": "Sales Assistant in Wembley (Part \u0026 Full Time)",
+  "company": "IKEA",
+  "companyLocation": "London",
+  "Salary": "£10.85 an hour"
+ },
+ {
+  "id": "",
+  "title": "ZARA BRENT CROSS SALES ASSISTANTS",
+  "company": "ZARA",
+  "companyLocation": "London",
+  "Salary": ""
+ },
+ {
+  "id": "",
+  "title": "Christmas Sales Assistant- Stratford Westfields",
+  "company": "Flying Tiger Copenhagen",
+  "companyLocation": "Westfield Stratford City",
+  "Salary": ""
+ },
+ {
+  "id": "",
+  "title": "Sales Assistant",
+  "company": "Office Shoes",
+  "companyLocation": "London+3 locations",
+  "Salary": ""
+ },
+ {
+  "id": "",
+  "title": "Christmas Sales Assistant- Islington",
+  "company": "Flying Tiger Copenhagen",
+  "companyLocation": "Islington+13 locations",
+  "Salary": ""
  }
 ]
