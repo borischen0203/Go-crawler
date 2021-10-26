@@ -31,19 +31,22 @@ func main() {
 	//Set up collector
 	collector := colly.NewCollector(
 		colly.AllowedDomains("uk.indeed.com"),
-		// colly.Async(true),
+		colly.AllowURLRevisit(),
+		colly.Async(true),
 	)
 
-	// collector2 := collector.Clone()
-	// collector3 := collector.Clone()
+	collector2 := collector.Clone()
 
-	collector.Limit(&colly.LimitRule{
+	err := collector.Limit(&colly.LimitRule{
 		// DomainRegexp: "",
-		DomainGlob:  "uk.indeed.com/*",
-		Delay:       5 * time.Second,
-		RandomDelay: 1 * time.Second,
-		Parallelism: 5,
+		DomainGlob: `indeed\.com`,
+		// Delay:       10 * time.Second,
+		RandomDelay: 10 * time.Second,
+		Parallelism: 2,
 	})
+	if err != nil {
+		log.Fatal(err)
+	}
 
 	jobKey = make(map[string]string)
 
@@ -69,21 +72,53 @@ func main() {
 		})
 	})
 
+	collector.OnError(func(_ *colly.Response, err error) {
+		log.Println("Something went wrong:", err)
+	})
+
 	// Before making a request print "Visiting ..."
 	collector.OnRequest(func(r *colly.Request) {
 		r.Headers.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36")
 		fmt.Println("Visiting", r.URL.String())
 	})
 
-	//TODO: Check is this last page
-	for page := 0; page < 1; page++ {
+	//TODO: allow to excute the program 10 second
+	// p := context.TODO()
+	// c, _ := context.WithTimeout(p, 5*time.Second)
+	// wg := &sync.WaitGroup{}
+	// wg.Add(1)
+	// start := time.Now()
+	// go func(ctx context.Context) {
+	// 	defer wg.Done()
+	// 	for {
+	// 		select {
+	// 		case <-c.Done():
+	// 			return
+	// 		default:
+	// 			for page := 0; page < 10; page++ {
+	// 				num := strconv.Itoa(page * 10)
+	// 				link := fmt.Sprintf("https://uk.indeed.com/jobs?q=shop+assistant&l=London&start=%s", num)
+	// 				select {
+	// 				case <-c.Done():
+	// 					return
+	// 				default:
+	// 					collector.Visit(link)
+	// 				}
+	// 			}
+	// 		}
+	// 	}
+	// }(c)
+	// wg.Wait()
+	// fmt.Println(time.Since(start))
+
+	// TODO: Check is this last page
+	for page := 0; page < 65; page++ {
 		num := strconv.Itoa(page * 10)
 		link := fmt.Sprintf("https://uk.indeed.com/jobs?q=shop+assistant&l=London&start=%s", num)
 		collector.Visit(link)
 	}
-	// collector.Wait()
-	// collector2.Wait()
-	// collector3.Wait()
+	collector.Wait()
+	collector2.Wait()
 
 	writeJSON(allJobs)
 	fmt.Printf("Successfully crawled %d jobs", len(allJobs))
