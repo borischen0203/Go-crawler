@@ -1,4 +1,11 @@
-<img src="https://raw.githubusercontent.com/scraly/gophers/main/men-in-black-v2.png" alt="men-in-black-v2" width=400>
+<img src="https://raw.githubusercontent.com/scraly/gophers/main/men-in-black-v2.png" alt="men-in-black-v2" width=500>
+
+<p align="Left">
+  <p align="Left">
+    <a href="https://github.com/borischen0203/go-crawler/actions/workflows/go.yml"><img alt="GitHub release" src="https://github.com/borischen0203/o-crawler/actions/workflows/go.yml/badge.svg?logo=github&style=flat-square"></a>
+  </p>
+</p>
+
 
 # Go-crawler
 This project mainly use for crawling job on Indeed.
