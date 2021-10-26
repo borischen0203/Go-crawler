@@ -24,7 +24,7 @@ Required
 ### Run process
 Step1: Clone the repo
 ```bash
-git clone https://github.com/borischen0203/go-crawpler.git
+git clone https://github.com/borischen0203/Go-crawler.git
 ```
 Step2: Run main file
 ```bash
