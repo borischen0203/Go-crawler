@@ -1,107 +1,247 @@
 [
  {
-  "id": "567bb3604dec9cad",
-  "title": "Store Assistant - Days",
-  "company": "ASDA",
-  "companyLocation": "East London E1 4UJ+",
-  "Salary": ""
- },
- {
-  "id": "18cabeb896510577",
-  "title": "Christmas Sales Assistant- Westfields London",
-  "company": "Flying Tiger Copenhagen",
+  "id": "104572f0e864ec21",
+  "title": "Sales Assistant",
+  "company": "Mr Resistor",
   "companyLocation": "London",
   "Salary": ""
  },
  {
-  "id": "f5e43402a0d9f7a8",
-  "title": "Customer Assistant Menswear",
-  "company": "Marks \u0026 Spencer",
-  "companyLocation": "London+",
-  "Salary": ""
- },
- {
-  "id": "c6879cfbbc119092",
-  "title": "Sales Assistant - Oxford St Flagship",
-  "company": "Mango",
-  "companyLocation": "London+",
-  "Salary": ""
- },
- {
-  "id": "1a5ab1ea8fef3a68",
-  "title": "Sales Assistant- London Bridge Shard",
-  "company": "WHSmith",
+  "id": "df402e5b5820b726",
+  "title": "Seasonal Sales Associate - Calvin Klein (Stratford)",
+  "company": "PVH",
   "companyLocation": "London",
-  "Salary": "£8.91 an hour"
- },
- {
-  "id": "f6faa5f8a1a3d9df",
-  "title": "Sales Assistant - Westfield Stratford City",
-  "company": "WHSmith",
-  "companyLocation": "Westfield Stratford City+",
-  "Salary": "£8.91 an hour"
- },
- {
-  "id": "4a5ac5d0dd32b272",
-  "title": "Customer Assistant",
-  "company": "Marks \u0026 Spencer",
-  "companyLocation": "London+",
   "Salary": ""
  },
  {
-  "id": "239c66f4b59ae11e",
-  "title": "Customer Assistant",
-  "company": "Lidl",
-  "companyLocation": "Limehouse E14 7DL+",
-  "Salary": "£10.85 - £11.80 an hour"
+  "id": "96e0565689564cc4",
+  "title": "Shop Assistant",
+  "company": "Cowley Fish Bar",
+  "companyLocation": "Uxbridge UB8 2HL",
+  "Salary": "£10 an hour"
  },
  {
-  "id": "a156eecd05869b68",
-  "title": "Retail Betting Assistant",
-  "company": "Paddy Power",
-  "companyLocation": "London SE1 1NH+",
-  "Salary": "£9.50 an hour"
- },
- {
-  "id": "83af6b35cb83f90d",
-  "title": "Retail Assistant",
-  "company": "Primark-UK-IE",
-  "companyLocation": "London+",
-  "Salary": "£9.45 an hour"
- },
- {
-  "id": "204b54e1065bab84",
-  "title": "Sales Assistant - Holborn Circus",
-  "company": "WHSmith",
-  "companyLocation": "Holborn",
-  "Salary": "£8.91 an hour"
- },
- {
-  "id": "267fa30eda97ad8c",
-  "title": "SHOP SALES ASSISTANT",
-  "company": "LONGDAN",
-  "companyLocation": "Elephant \u0026 Castle+",
-  "Salary": "£8.91 an hour"
- },
- {
-  "id": "8419f484a492970a",
-  "title": "Customer Service Assistant",
-  "company": "Wickes",
-  "companyLocation": "London+",
-  "Salary": "£9.50 an hour"
- },
- {
-  "id": "24a633d03d1c5a5a",
-  "title": "Customer Assistant - Pick and Pack",
-  "company": "WM Morrisons Supermarkets",
-  "companyLocation": "Canning Town Station+",
+  "id": "63fe69f09f5b5d8d",
+  "title": "BloombergNEF Sales Associate",
+  "company": "Bloomberg",
+  "companyLocation": "London",
   "Salary": ""
  },
  {
-  "id": "621e85a13c4f8fb3",
+  "id": "1f44ce605c9cbe95",
+  "title": "Shop Floor Sales Assistant",
+  "company": "Nevisport",
+  "companyLocation": "Windsor SL4 1DW",
+  "Salary": ""
+ },
+ {
+  "id": "309970e6c7309820",
+  "title": "Weekend Sales Assistant",
+  "company": "Hamptons International",
+  "companyLocation": "Putney",
+  "Salary": ""
+ },
+ {
+  "id": "353912e6da9ef56c",
+  "title": "Retail Assistant - City of London",
+  "company": "DCK Group",
+  "companyLocation": "London EC2A 1SA",
+  "Salary": ""
+ },
+ {
+  "id": "422f04387aed8ff0",
+  "title": "Customer Assistant",
+  "company": "Tile Giant",
+  "companyLocation": "Erith DA8",
+  "Salary": "£17,626 - £18,772 a year"
+ },
+ {
+  "id": "ca833f8baa532121",
+  "title": "Holiday Season Sales Associate - 2021 | Deptford Mall",
+  "company": "Lovisa",
+  "companyLocation": "Deptford",
+  "Salary": ""
+ },
+ {
+  "id": "0f0106bf1318e0b9",
+  "title": "Merchandiser - Fragrance- French speaker ideally",
+  "company": "Twenty-Two Business Support and Development",
+  "companyLocation": "London",
+  "Salary": "£50,000 - £60,000 a year"
+ },
+ {
+  "id": "1ff2b3648b18379f",
+  "title": "Merchandiser, RTW",
+  "company": "Stella McCartney Ltd",
+  "companyLocation": "London",
+  "Salary": ""
+ },
+ {
+  "id": "1f3ab65a57b8cb4d",
+  "title": "Reservations Sales Associate",
+  "company": "Revenue Centre / Reservations - The Landmark...",
+  "companyLocation": "London NW1 6JQ",
+  "Salary": ""
+ },
+ {
+  "id": "0ced49be8b7a9036",
+  "title": "Sales Assistant",
+  "company": "Saint-Gobain",
+  "companyLocation": "Southwark",
+  "Salary": ""
+ },
+ {
+  "id": "37330a92145a4fb7",
+  "title": "Office Sales Assistant",
+  "company": "ML Meat Supplies Ltd",
+  "companyLocation": "London N17 9QP",
+  "Salary": "£9.50 - £10.50 an hour"
+ },
+ {
+  "id": "f526ba719563149f",
+  "title": "Volunteer Sales Assistant",
+  "company": "Octavia Foundation",
+  "companyLocation": "London",
+  "Salary": ""
+ },
+ {
+  "id": "edda1ec37782be53",
+  "title": "Stock Assistant - Permanent (Delivery/Stockroom Department)",
+  "company": "Next PLC",
+  "companyLocation": "Crayford",
+  "Salary": ""
+ },
+ {
+  "id": "a40971a26f61d027",
+  "title": "Retail Sales Associate (Product Guide) - Part-time",
+  "company": "Arc'teryx",
+  "companyLocation": "London",
+  "Salary": ""
+ },
+ {
+  "id": "ef9e3a42089e1546",
+  "title": "Sales Assistant",
+  "company": "Four Seasons Recruitment",
+  "companyLocation": "London",
+  "Salary": "£22,500 a year"
+ },
+ {
+  "id": "ecf60e931916a57f",
+  "title": "Visual Merchandiser Associate - UNIQLO White City",
+  "company": "Uniqlo eu jobs",
+  "companyLocation": "London",
+  "Salary": ""
+ },
+ {
+  "id": "48f149054235b51e",
   "title": "Store Assistant",
-  "company": "Aldi",
-  "companyLocation": "Haringey N4 1ED+",
-  "Salary": "£11.07 an hour"
+  "company": "Aston and Fincher",
+  "companyLocation": "London NW2 7JP",
+  "Salary": "£10.28 an hour"
+ },
+ {
+  "id": "a4405b0db9eddec3",
+  "title": "Customer Service/Sales Assistant",
+  "company": "Samba Soccer Schools",
+  "companyLocation": "West London",
+  "Salary": "£15,000 - £17,000 a year"
+ },
+ {
+  "id": "f3334ac0bc42ae23",
+  "title": "Shop Floor Assistant - Portuguese/Spanish Speaking",
+  "company": "Delicias",
+  "companyLocation": "London NW10 5NS",
+  "Salary": "£9.50 an hour"
+ },
+ {
+  "id": "f6996fa8955da64a",
+  "title": "Sandwich Shop Assistant",
+  "company": "Williams Bakery Ltd",
+  "companyLocation": "London RM3 0BS",
+  "Salary": ""
+ },
+ {
+  "id": "b59144557b012fb0",
+  "title": "Retail Sales Assistant",
+  "company": "Designer Colours",
+  "companyLocation": "London NW7 3NX",
+  "Salary": "£25,000 a year"
+ },
+ {
+  "id": "b5fe05658d98ff3c",
+  "title": "Sales Assistant (Christmas Temp)",
+  "company": "Fleur Jewellery Ltd",
+  "companyLocation": "Walton-on-Thames KT12 1DG",
+  "Salary": "£18,000 - £22,000 a year"
+ },
+ {
+  "id": "d4181398f1aca4c2",
+  "title": "Graduate Sales Associate",
+  "company": "Graduate Recruitment Bureau",
+  "companyLocation": "London",
+  "Salary": ""
+ },
+ {
+  "id": "7a9dca11dcad42b9",
+  "title": "Trade Counter Timber and Builders Merchant Sales Assistant",
+  "company": "HITCHCOCK AND KING ENTERPRISES",
+  "companyLocation": "Fulham SW6 3HW",
+  "Salary": ""
+ },
+ {
+  "id": "bc4886c500cbb8b1",
+  "title": "Sales Assistant",
+  "company": "Daniel Stores",
+  "companyLocation": "Windsor SL4 1DP",
+  "Salary": ""
+ },
+ {
+  "id": "2242c252da3c16f4",
+  "title": "Telephone Sales Assistant - KickStart Scheme",
+  "company": "Bache Samuels",
+  "companyLocation": "London E8•Temporarily Remote",
+  "Salary": "£8.91 an hour"
+ },
+ {
+  "id": "85568457a5b94571",
+  "title": "Brand Merchandiser",
+  "company": "Powerforce",
+  "companyLocation": "Watford WD17",
+  "Salary": "£9.50 an hour"
+ },
+ {
+  "id": "e67ca7fa3f2044ae",
+  "title": "Tunbridge Wells - Christmas Sales Associate - Various Hours",
+  "company": "L'OCCITANE en provence",
+  "companyLocation": "South East",
+  "Salary": ""
+ },
+ {
+  "id": "da358808a4e3e842",
+  "title": "Retail Merchandiser",
+  "company": "Cloetta UK",
+  "companyLocation": "Wood Green",
+  "Salary": "£8.91 an hour"
+ },
+ {
+  "id": "484ca8c0d10d93f8",
+  "title": "Technician Sales Assistant",
+  "company": "Babla's",
+  "companyLocation": "Wembley HA0",
+  "Salary": "£9 an hour"
+ },
+ {
+  "id": "9dec54da79f82325",
+  "title": "Casual Sales Assistant - Basildon",
+  "company": "PPG Industries",
+  "companyLocation": "Basildon",
+  "Salary": ""
+ },
+ {
+  "id": "d205c868b2fdd159",
+  "title": "Vending Merchandiser",
+  "company": "Bolt Staffing Solutions",
+  "companyLocation": "Watford",
+  "Salary": "£22,500 a year"
  }
 ]
